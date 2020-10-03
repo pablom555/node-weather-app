@@ -5,7 +5,7 @@ Console application which you will can get the weater of a city
 ## Install
 
 ```bash
-git clone git@github.com:pablom555/node-weather-app.git
+git clone https://github.com/pablom555/node-weather-app.git
 npm install
 ```
 
